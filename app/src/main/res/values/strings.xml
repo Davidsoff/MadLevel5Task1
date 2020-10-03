@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MadLevel5Task1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="notepad_fragment_label">Notepad Fragment</string>
+    <string name="add_note_fragment_label">Add Note Fragment</string>
+
+</resources>
