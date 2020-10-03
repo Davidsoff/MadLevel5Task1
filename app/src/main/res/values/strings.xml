@@ -5,4 +5,9 @@
     <string name="notepad_fragment_label">Notepad Fragment</string>
     <string name="add_note_fragment_label">Add Note Fragment</string>
 
+    <string name="title">My Notepad</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="title_hint">Title</string>
+    <string name="note_hint">Note</string>
+    <string name="save_btn">Save</string>
 </resources>
